@@ -1,5 +1,49 @@
-# 💫 About Me:
-Hi there 👋<br>I'm Muhammad Ahmad, a Computer Engineering senior with a passion for data science, machine learning, and AI. I have a diverse skill set encompassing both software and hardware, and I love writing about data science topics.<br><br>👨‍💻 Skills:<br>Proficient in C++, Python, React.js, Tailwind CSS, x86 assembly language, and MIPS<br>Experienced in machine learning with frameworks such as TensorFlow and PyTorch<br>Skilled in data analysis using tools like Matplotlib and MATLAB<br>Strong foundation in advanced mathematics and electronics<br>👀 Interests:<br>Python programming<br>Data science, machine learning, and artificial intelligence<br>Software and hardware integration<br>💞️ Looking to Collaborate On:<br>Python-related projects<br>Machine learning and data analysis initiatives<br>📫 How to Reach Me:<br>Email: ahmadkhalid6564@gmail.com
+# 👋 Muhammad Ahmad
+
+## 🚀 About Me
+I'm a Computer Engineering senior passionate about data science, machine learning, and embedded systems. With expertise in software and hardware development, I enjoy working on real-time data processing, signal analysis, and intelligent systems.
+
+## 🎯 Research Interests
+- Wi-Fi-based occupancy detection
+- FPGA-based computing and optimization
+- Machine learning for medical imaging
+
+## 🔬 Research Experience
+### **Wi-Fi Enabled Occupancy Detection System**
+*National University of Sciences and Technology (NUST)*  
+- Developed a smart system for real-time room occupancy detection using Wi-Fi CSI.
+- Built a machine learning model for binary classification.
+- Designed an interactive dashboard using FastAPI and React.js.
+
+### **FPGA-Based Fast Matrix Multiplication**
+*NUST*  
+- Implemented a parallelized matrix multiplication system on FPGA using Verilog.
+- Integrated UART communication for data transfer.
+- Optimized design for efficiency on the Nexus 3 Spartan-6 FPGA.
+
+### **cGAN-Based Noisy Medical Image Reconstruction**
+- Designed a Pix2Pix-based cGAN to denoise MRI scans from the BraTS 2020 dataset.
+- Improved image quality using PSNR, LPIPS, and SSIM metrics.
+- Employed a U-Net generator and PatchGAN discriminator for high-quality reconstructions.
+
+## 🛠 Technical Skills
+- **Languages**: Python, C++, Verilog, JavaScript
+- **Web Development**: React.js, FastAPI, Django, Node.js
+- **ML & Data Science**: Scikit-learn, TensorFlow, PyTorch
+- **Embedded Systems**: Raspberry Pi, ARM Cortex, FPGA (Xilinx)
+- **Databases**: MySQL, PostgreSQL, MongoDB
+
+## 💻 Notable Projects
+- **Chat & File Sharing App** using BSD Sockets
+- **Library Management System** (Frontend & Backend)
+- **X-ray Image Classification** using CNNs
+- **8-Bit Serial Adder** (Hardware Implementation)
+
+## 🤝 Volunteering & Teaching
+- **Online Tutor** (Freelance)
+- **Hult Prize Event Organizer** - NUST
+
+📫 **Reach Me At:** ahmadkhalid6564@gmail.com
 
 
 ## 🌐 Socials:
