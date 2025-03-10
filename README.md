@@ -1,29 +1,24 @@
-### Hi there 👋
+# 💫 About Me:
+Hi there 👋<br>I'm Muhammad Ahmad, a Computer Engineering senior with a passion for data science, machine learning, and AI. I have a diverse skill set encompassing both software and hardware, and I love writing about data science topics.<br><br>👨‍💻 Skills:<br>Proficient in C++, Python, React.js, Tailwind CSS, x86 assembly language, and MIPS<br>Experienced in machine learning with frameworks such as TensorFlow and PyTorch<br>Skilled in data analysis using tools like Matplotlib and MATLAB<br>Strong foundation in advanced mathematics and electronics<br>🌱 Currently Learning:<br>Exploring various Python libraries to enhance my programming skills<br>👀 Interests:<br>Python programming<br>Data science, machine learning, and artificial intelligence<br>Software and hardware integration<br>💞️ Looking to Collaborate On:<br>Python-related projects<br>Machine learning and data analysis initiatives<br>📫 How to Reach Me:<br>Email: ahmadkhalid6564@gmail.com
 
-I'm Muhammad Ahmad, a Computer Engineering senior with a passion for data science, machine learning, and AI. I have a diverse skill set encompassing both software and hardware, and I love writing about data science topics.
 
-#### 👨‍💻 Skills:
-- Proficient in **C++, Python, React.js, Tailwind CSS, x86 assembly language, and MIPS**
-- Experienced in **machine learning** with frameworks such as **TensorFlow and PyTorch**
-- Skilled in **data analysis** using tools like **Matplotlib and MATLAB**
-- Strong foundation in **advanced mathematics and electronics**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/ahmadkhalid.mk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmad-khalid-846830201/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ahmadkhalid6564) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadkhalid6564@gmail.com) 
 
-#### 🌱 Currently Learning:
-- Exploring various Python libraries to enhance my programming skills
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahmad6564&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ahmad6564&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad6564&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### 👀 Interests:
-- Python programming
-- Data science, machine learning, and artificial intelligence
-- Software and hardware integration
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ahmad6564&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-#### 💞️ Looking to Collaborate On:
-- Python-related projects
-- Machine learning and data analysis initiatives
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-#### 📫 How to Reach Me:
-- Email: [ahmadkhalid6564@gmail.com](mailto:ahmadkhalid6564@gmail.com)
+---
+[![](https://visitcount.itsvg.in/api?id=Ahmad6564&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!---
-Ahmad6564/Ahmad6564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
